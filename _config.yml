@@ -3,7 +3,7 @@ baseurl: /
 
 # Site settings
 title: The Carpentries 
-email: bweaver@carpentries.org
+email: team@carpentries.org
 description: "We teach foundational computational and data science skills to researchers"
 
 
@@ -14,7 +14,7 @@ people:
   position: Executive Director
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/jduckles
     - title: facebook
       url: #
     - title: stack-overflow
@@ -28,10 +28,12 @@ people:
       url: https://twitter.com/cloudaus
     - title: github
       url: https://github.com/weaverbel
+    - title: facebook
+      url: https://www.facebook.com/carpentries
 
 - name: Maneesha Sane
   pic: 3
-  position: Workshop Administrator
+  position: Program Manager
   social:
     - title: twitter
       url: #
