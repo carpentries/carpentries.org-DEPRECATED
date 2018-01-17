@@ -20,7 +20,7 @@ people:
 
 - name: Jonah Duckles
   pic: 2
-  position: Business Director
+  position: Director of Membership and Technology
   social:
     - title: twitter
       url: https://twitter.com/jduckles
@@ -29,7 +29,7 @@ people:
 
 - name: Erin Becker
   pic: 3
-  position: Chief Operating Officer
+  position: Associate Director
   social:
     - title: twitter
       url: https://twitter.com/ErinSBecker
@@ -38,7 +38,7 @@ people:
       
 - name: Kari L. Jordan
   pic: 4
-  position: Deputy Director of Assessment
+  position: Director of Assessment and Community Equity
   social:
     - title: twitter
       url: https://twitter.com/kariljordan
@@ -47,7 +47,7 @@ people:
       
 - name: Belinda Weaver
   pic: 5
-  position: Community Development Lead
+  position: Community Communications Development Lead
   social:
     - title: twitter
       url: https://twitter.com/cloudaus
@@ -82,14 +82,7 @@ people:
       url: https://twitter.com/ecwilliams8
     - title: facebook
       url: https://www.facebook.com/carpentries
-      
-- name: Karen Word
-  pic: 9
-  position: Depuity Director of Instructor Training
-  social:
-    - title: facebook
-      url: https://www.facebook.com/carpentries
-      
+           
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
