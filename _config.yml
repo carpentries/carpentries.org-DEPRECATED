@@ -9,19 +9,44 @@ description: "We teach foundational computational and data science skills to res
 
 # Team names, titles and social links
 people:
-- name: Jonah Duckles
+- name: Tracy Teal
   pic: 1
   position: Executive Director
   social:
     - title: twitter
+      url: https://twitter.com/tracykteal
+    - title: facebook
+      url: https://www.facebook.com/carpentries
+
+- name: Jonah Duckles
+  pic: 2
+  position: Business Director
+  social:
+    - title: twitter
       url: https://twitter.com/jduckles
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/carpentries
 
+- name: Erin Becker
+  pic: 3
+  position: Chief Operating Officer
+  social:
+    - title: twitter
+      url: https://twitter.com/ErinSBecker
+    - title: facebook
+      url: https://www.facebook.com/carpentries
+      
+- name: Kari L. Jordan
+  pic: 4
+  position: Deputy Director of Assessment
+  social:
+    - title: twitter
+      url: https://twitter.com/kariljordan
+    - title: facebook
+      url: https://www.facebook.com/carpentries  
+      
 - name: Belinda Weaver
-  pic: 2
+  pic: 5
   position: Community Development Lead
   social:
     - title: twitter
@@ -32,16 +57,39 @@ people:
       url: https://www.facebook.com/carpentries
 
 - name: Maneesha Sane
-  pic: 3
+  pic: 6
   position: Program Manager
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/maneeshasane
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/carpentries
+      
+- name: SherAaron Hurt
+  pic: 7
+  position: Workshop Administrator
+  social:
+    - title: twitter
+      url: https://twitter.com/SherAaronHurt
+    - title: facebook
+      url: https://www.facebook.com/carpentries
 
+- name: Elizabeth Williams
+  pic: 8
+  position: Business Administrator
+  social:
+    - title: twitter
+      url: https://twitter.com/ecwilliams8
+    - title: facebook
+      url: https://www.facebook.com/carpentries
+      
+- name: Karen Word
+  pic: 9
+  position: Depuity Director of Instructor Training
+  social:
+    - title: facebook
+      url: https://www.facebook.com/carpentries
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -55,7 +103,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Brisbane, Australia
+  - line: Davis, California
 
 # Build settings
 markdown: kramdown
