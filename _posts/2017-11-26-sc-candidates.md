@@ -2,7 +2,8 @@
 layout: blog-post
 authors: ["Belinda Weaver"]
 title: "Our Steering Committee Candidates"
-category: blog
+category: ["Governance", "Steering Committee"]
+
 ---
 
 Eight people have nominated to serve on the 2018 Steering Committee of the new, merged Carpentries.
