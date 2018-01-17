@@ -2,7 +2,7 @@
 layout: blog-post
 authors: ["Belinda Weaver"]
 title: "Our Steering Committee Candidates"
-category: ["Governance", "Steering Committee"]
+category: blog
 
 ---
 
