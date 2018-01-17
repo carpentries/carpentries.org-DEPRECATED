@@ -11,7 +11,7 @@ The leader serving in this year-long position (December 2017- December 2018) wil
 
 The expectations of the mentoring subcommittee co-chairs are to host the monthly mentoring subcommittee meetings, facilitate opportunities for building connections across our community to better serve our instructors, and to manage the weekly instructor discussion sessions hosted on [this etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
-If you would like to be considered, please fill out [this short google form](https://goo.gl/forms/aSzm8Gg7Y4tIboWy2) by **December 4th**.  The current mentoring subcommittee co-chairs will select a new co-chair from the applicants with input from the Carpentries staff liaison, and other members of the Carpentries community.
+If you would like to be considered, please fill out [this short Google form](https://goo.gl/forms/aSzm8Gg7Y4tIboWy2) by **December 4th**.  The current mentoring subcommittee co-chairs will select a new co-chair from the applicants with input from the Carpentries staff liaison, and other members of the Carpentries community.
 
 
 ********
