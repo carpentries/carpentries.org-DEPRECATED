@@ -58,8 +58,19 @@ people:
     - title: facebook
       url: https://www.facebook.com/carpentries
 
-- name: Maneesha Sane
+- name: François Michonneau 
   pic: 6
+  position: Curriculum Development Lead
+  social:
+    - title: twitter
+      url: https://twitter.com/fmic_
+    - title: github
+      url: https://github.com/fmichonneau
+    - title: facebook
+      url: https://www.facebook.com/carpentries
+      
+- name: Maneesha Sane
+  pic: 7
   position: Program Manager
   social:
     - title: twitter
@@ -68,7 +79,7 @@ people:
       url: https://www.facebook.com/carpentries
       
 - name: SherAaron Hurt
-  pic: 7
+  pic: 8
   position: Workshop Administrator
   social:
     - title: twitter
@@ -77,7 +88,7 @@ people:
       url: https://www.facebook.com/carpentries
 
 - name: Elizabeth Williams
-  pic: 8
+  pic: 9
   position: Business Administrator
   social:
     - title: twitter
