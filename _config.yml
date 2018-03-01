@@ -15,11 +15,24 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/tracykteal
+    - title: github
+      url: https://github.com/tracykteal
+    - title: facebook
+      url: https://www.facebook.com/carpentries
+
+- name: Erin Becker
+  pic: 2
+  position: Associate Director
+  social:
+    - title: twitter
+      url: https://twitter.com/ErinSBecker
+    - title: github
+      url: https://github.com/erinbecker
     - title: facebook
       url: https://www.facebook.com/carpentries
 
 - name: Jonah Duckles
-  pic: 2
+  pic: 3
   position: Director of Membership and Technology
   social:
     - title: twitter
@@ -28,22 +41,15 @@ people:
       url: https://github.com/jduckles
     - title: facebook
       url: https://www.facebook.com/carpentries
-
-- name: Erin Becker
-  pic: 3
-  position: Associate Director
-  social:
-    - title: twitter
-      url: https://twitter.com/ErinSBecker
-    - title: facebook
-      url: https://www.facebook.com/carpentries
       
 - name: Kari L. Jordan
   pic: 4
   position: Director of Assessment and Community Equity
   social:
     - title: twitter
-      url: https://twitter.com/kariljordan
+      url: https://twitter.com/drkariljordan
+    - title: github
+      url: https://github.com/kariljordan
     - title: facebook
       url: https://www.facebook.com/carpentries  
       
@@ -75,6 +81,8 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/maneeshasane
+    - title: github   
+      url: https://github.com/maneesha
     - title: facebook
       url: https://www.facebook.com/carpentries
       
@@ -84,6 +92,8 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/SherAaronHurt
+    - title: github   
+      url: https://github.com/sheraaron   
     - title: facebook
       url: https://www.facebook.com/carpentries
 
