@@ -17,8 +17,6 @@ people:
       url: https://twitter.com/tracykteal
     - title: github
       url: https://github.com/tracykteal
-    - title: facebook
-      url: https://www.facebook.com/carpentries
 
 - name: Erin Becker
   pic: 2
@@ -28,8 +26,6 @@ people:
       url: https://twitter.com/ErinSBecker
     - title: github
       url: https://github.com/erinbecker
-    - title: facebook
-      url: https://www.facebook.com/carpentries
 
 - name: Jonah Duckles
   pic: 3
@@ -39,8 +35,6 @@ people:
       url: https://twitter.com/jduckles
     - title: github
       url: https://github.com/jduckles
-    - title: facebook
-      url: https://www.facebook.com/carpentries
       
 - name: Kari L. Jordan
   pic: 4
@@ -50,8 +44,6 @@ people:
       url: https://twitter.com/drkariljordan
     - title: github
       url: https://github.com/kariljordan
-    - title: facebook
-      url: https://www.facebook.com/carpentries  
       
 - name: Belinda Weaver
   pic: 5
@@ -61,8 +53,8 @@ people:
       url: https://twitter.com/cloudaus
     - title: github
       url: https://github.com/weaverbel
-    - title: facebook
-      url: https://www.facebook.com/carpentries
+    - title: linkedin
+      url: https://www.linkedin.com/in/belinda-weaver-8525526/
 
 - name: François Michonneau 
   pic: 6
@@ -72,8 +64,6 @@ people:
       url: https://twitter.com/fmic_
     - title: github
       url: https://github.com/fmichonneau
-    - title: facebook
-      url: https://www.facebook.com/carpentries
       
 - name: Maneesha Sane
   pic: 7
@@ -83,8 +73,6 @@ people:
       url: https://twitter.com/maneeshasane
     - title: github   
       url: https://github.com/maneesha
-    - title: facebook
-      url: https://www.facebook.com/carpentries
       
 - name: SherAaron Hurt
   pic: 8
@@ -94,8 +82,6 @@ people:
       url: https://twitter.com/SherAaronHurt
     - title: github   
       url: https://github.com/sheraaron   
-    - title: facebook
-      url: https://www.facebook.com/carpentries
 
 - name: Elizabeth Williams
   pic: 9
@@ -103,19 +89,7 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/ecwilliams8
-    - title: facebook
-      url: https://www.facebook.com/carpentries
-      
-- name: Karen Word
-  pic: 10
-  position: Deputy Director of Instructor Training
-  social:
-    - title: github
-      url: https://github.com/karenword
-    - title: facebook
-      url: https://www.facebook.com/carpentries
-           
-           
+     
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
