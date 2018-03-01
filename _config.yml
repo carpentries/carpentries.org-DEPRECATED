@@ -76,9 +76,9 @@ people:
   position: Program Manager
   social:
     - title: twitter
-    url: https://twitter.com/maneeshasane
+      url: https://twitter.com/maneeshasane
     - title: github
-    url: https://github.com/maneesha
+      url: https://github.com/maneesha
    
 - name: SherAaron Hurt
   pic: 8
@@ -105,7 +105,6 @@ address:
   - line: The Carpentries c/o Community Initiatives,  
   - line: 354 Pine Street, Suite 700,
   - line: San Francisco, California 94104
-
 
 # Build settings
 markdown: kramdown
