@@ -59,15 +59,10 @@ people:
   pic: 6
   position: Curriculum Development Lead
   social:
+    - title: twitter
+      url: https://twitter.com/fmic_
     - title: github
       url: https://github.com/fmichonneau
-      
-- name: Elizabeth Williams
-  pic: 9
-  position: Business Administrator
-  social:
-    - title: twitter
-      url: https://twitter.com/ecwilliams8
       
 - name: Maneesha Sane
   pic: 7
@@ -86,7 +81,15 @@ people:
       url: https://twitter.com/SherAaronHurt
     - title: github
       url: https://github.com/sheraaron
-
+      
+- name: Elizabeth Williams
+  pic: 9
+  position: Business Administrator
+  social:
+    - title: twitter
+      url: https://twitter.com/ecwilliams8
+      
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
