@@ -89,6 +89,15 @@ people:
     - title: twitter
       url: https://twitter.com/ecwilliams8
       
+- name: Karen Word
+  pic: 10
+  position: Deputy Director of Instructor Training
+  social:
+    - title: twitter
+      url: https://twitter.com/karen_word
+    - title: github
+      url: https://github.com/karenword
+      
       
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
