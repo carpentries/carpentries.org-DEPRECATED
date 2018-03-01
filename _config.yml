@@ -106,6 +106,7 @@ address:
   - line: 354 Pine Street, Suite 700,
   - line: San Francisco, California 94104
 
+
 # Build settings
 markdown: kramdown
 permalink: pretty
