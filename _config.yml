@@ -63,16 +63,7 @@ people:
       url: https://twitter.com/fmic_
     - title: github
       url: https://github.com/fmichonneau
-      
-- name: Maneesha Sane
-  pic: 7
-  position: Program Manager
-  social:
-    - title: twitter
-      url: https://twitter.com/maneeshasane
-    - title: github
-      url: https://github.com/maneesha
-   
+  
 - name: SherAaron Hurt
   pic: 8
   position: Workshop Administrator
@@ -97,8 +88,16 @@ people:
       url: https://twitter.com/karen_word
     - title: github
       url: https://github.com/karenword
-      
-      
+                
+- name: Maneesha Sane
+  pic: 7
+  position: Program Manager
+  social:
+    - title: twitter
+      url: https://twitter.com/maneeshasane
+    - title: github
+      url: https://github.com/maneesha
+   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
