@@ -63,16 +63,16 @@ people:
       url: https://twitter.com/fmic_
     - title: github
       url: https://github.com/fmichonneau
-  
-- name: SherAaron Hurt
-  pic: 8
-  position: Workshop Administrator
+                 
+- name: Maneesha Sane
+  pic: 7
+  position: Program Manager
   social:
     - title: twitter
-      url: https://twitter.com/SherAaronHurt
+      url: https://twitter.com/maneeshasane
     - title: github
-      url: https://github.com/sheraaron
-      
+      url: https://github.com/maneesha  
+  
 - name: Elizabeth Williams
   pic: 9
   position: Business Administrator
@@ -88,15 +88,17 @@ people:
       url: https://twitter.com/karen_word
     - title: github
       url: https://github.com/karenword
-                
-- name: Maneesha Sane
-  pic: 7
-  position: Program Manager
+      
+- name: SherAaron Hurt
+  pic: 8
+  position: Workshop Administrator
   social:
     - title: twitter
-      url: https://twitter.com/maneeshasane
+      url: https://twitter.com/SherAaronHurt
     - title: github
-      url: https://github.com/maneesha
+      url: https://github.com/sheraaron
+ 
+
    
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
