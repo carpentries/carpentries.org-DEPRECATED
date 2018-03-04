@@ -80,6 +80,15 @@ people:
     - title: twitter
       url: https://twitter.com/ecwilliams8
       
+- name: SherAaron Hurt
+  pic: 8
+  position: Workshop Administrator
+  social:
+    - title: twitter
+      url: https://twitter.com/SherAaronHurt
+    - title: github
+      url: https://github.com/sheraaron
+   
 - name: Karen Word
   pic: 10
   position: Deputy Director of Instructor Training
@@ -89,15 +98,7 @@ people:
     - title: github
       url: https://github.com/karenword
       
-- name: SherAaron Hurt
-  pic: 8
-  position: Workshop Administrator
-  social:
-    - title: twitter
-      url: https://twitter.com/SherAaronHurt
-    - title: github
-      url: https://github.com/sheraaron
- 
+
 
    
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
