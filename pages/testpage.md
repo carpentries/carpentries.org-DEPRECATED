@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 permalink: /testpage/
 
 ---
