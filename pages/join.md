@@ -2,9 +2,7 @@
 layout: page
 title: "Get Involved"
 permalink: /join/
----
-
-excerpt: Find ways to engage with the Carpentries Community. Subscribe to our newsletter, join our Slack channel, or attend a community event.
+excerpt: Find ways to engage with the Carpentries Community.
 ---
 
 <p>
@@ -15,19 +13,20 @@ us by becoming a <a href="https://software-carpentry.org/membership/">member org
 </p>
 <p>
 Getting involved in some of our many activities is the best way for individuals to support us. 
-
-- Teach or help at <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
+<ul>
+<li> Teach or help at <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops. 
-- <a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become an instructor.
-- Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
+<li><a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become an instructor.
+<li>Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
 or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees</a>.
-- Serve on a task force like <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> or the African Task force. 
-- <a href="https://carpentries.typeform.com/to/BK55ld">Blogfor us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">tell us about your favourite tool</a>.
-- Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. 
-- Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
-- Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
-- Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>. 
-- Join of the email lists below.
+<li>Serve on a task force like <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> or the African Task force. 
+<li><a href="https://carpentries.typeform.com/to/BK55ld">Blogfor us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">tell us about your favourite tool</a>.
+<li>Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. 
+<li>Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
+<li>Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
+<li>Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>. 
+<li>Join and contribute to some of the email lists below.
+  </ul>
 </p>
 
 <h2 id="newsletter">Newsletter</h2>
