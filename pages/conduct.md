@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 permalink: /conduct/
 title: Code of Conduct
 excerpt: The Carpentries Code of Conduct is geared towards making participation an enjoyable and fulfilling experience for all
