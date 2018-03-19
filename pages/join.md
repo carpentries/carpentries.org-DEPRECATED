@@ -19,8 +19,8 @@ or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop
 <li><a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become an instructor.
 <li>Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
 or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees</a>.
-<li>Serve on a task force like <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> or the African Task force. 
-<li><a href="https://carpentries.typeform.com/to/BK55ld">Blogfor us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">tell us about your favourite tool</a>.
+<li>Join the <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> Task Force or the <a href="https://software-carpentry.org/join/subcom/african-tf/">African Task Force</a>. 
+<li><a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">tell us about your favourite tool</a>.
 <li>Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. 
 <li>Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
 <li>Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
