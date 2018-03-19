@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /testpage/
-
+title: "Assessment"
+permalink: /assessment/
 ---
 
 ## Assessment
