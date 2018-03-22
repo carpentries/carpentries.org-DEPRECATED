@@ -4,15 +4,17 @@ title: "Assessment Network"
 permalink: "/assessment-network/"
 ---
 
+## The Carpentries Assessment Network
+
 The Assessment Network was established as a space for those working on assessment within the open source/research computing community to collaborate and share resources.
 
-## Assessment Network Goals
+### Assessment Network Goals
 The goals of the assessment network include:
 + Comparing assessment efforts across various programs.
 + Discussing strategies for measuring and assessing research computing productivity.
 + Managing and sharing resources (quantitative/qualitative tools and approaches) across countries.
 
-## Relevant Blog Posts
+### Relevant Blog Posts
 If you are interested in learning more about assessment within the Carpentries community, we recommend the following blog posts:  
 
 [Long-Term Assessment Strategy](http://www.datacarpentry.org/blog/long-term-assessment-strategy/)   
