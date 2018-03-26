@@ -2,8 +2,7 @@
 layout: page
 permalink: /equity/
 title: Equity and Inclusion
-excerpt: Resources and information regarding our diversity and inclusion strategies, programs, policies, and metrics that will attract, retain and promote a diverse community of 
-instructors and learners and foster an environment of inclusion. 
+excerpt: Resources and information regarding our diversity and inclusion strategies, programs, policies, and metrics that will attract, retain and promote a diverse community of instructors and learners and foster an environment of inclusion. 
 ---
 
 ## Equity and Inclusion
