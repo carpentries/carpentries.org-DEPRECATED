@@ -1,4 +1,10 @@
-<h2 id="instructors">Instructors</h2>
+---
+layout: page
+title: "Instructor Training"
+permalink: /instructor-training/
+---
+
+<h2>Instructor Training</h2>
 
 <p>
 There are two steps to becoming an instructor:
