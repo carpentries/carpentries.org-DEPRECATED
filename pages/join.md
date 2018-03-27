@@ -5,22 +5,73 @@ permalink: /join/
 excerpt: Find ways to engage with the Carpentries Community.
 ---
 
-<p>
-There are lots of ways to support the work of the Carpentries. 
+## Getting Involved
+
+There are lots of ways to get involved in our community and many different ways to support the work of the Carpentries. 
+
+### Pathways for Engagement - Institutions
+
+#### Become a Member
 
 Institutions such as universities and research institutes can best support 
-us by becoming a <a href="https://software-carpentry.org/membership/">member organization</a>. 
-</p>
-<p>
-Getting involved in some of our many activities is the best way for individuals to support us. 
-<ul>
-<li> Teach or help at <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
+The Carpentries by becoming a <a href="../membership/">member organization</a>. Member Organization make a commitment to the growth and spread of The Carpentries, and receive priority access to [instructor training](../instructor-training) as well as guidance with capacity building at their organization. 
+
+#### Sponsor CarpentryCon
+
+[CarpentryCon 2018](http://www.carpentrycon.org/), our key community building event this year, will be held in Dublin from 30 May - 1 June, 2018. We are
+still seeking sonsorship to make this a truly global and diverse event that celebrates our global community and helps foster the professional development of the research leaders of the future. Can you help? [Read about what we need.](http://www.carpentrycon.org/#portfolio)
+  
+### Pathways for Engagement - Individuals
+  
+Individuals have many ways to get involved in our commuity. 
+  
+#### Teach
+  
+- Teach or help at <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops. 
-<li><a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become an instructor.
-<li>Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
+
+- <a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become a Carpentries instructor. 
+
+- Certify as a Trainer. Trainers run instructor training to help others certify as Carpentries Instructors. Call for poeple to apply to be Trainers are announced regularly.  Trainers develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md). 
+  
+#### Learn
+
+- Attend <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
+or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop.
+
+- Join a Carpentries mentoring group as a mentee.
+
+#### Maintain Lessons
+
+- All Carpentries lessons are actively maintained. Maintainers develop a highly desirable [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md).
+
+- Serve on a Curriculum Advistory Committee.
+
+
+#### Build Local Communities
+
+#### Mentor Others
+
+- Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee.
+- Host discussion sessions.
+- Join a Carpentries mentoring group as a mentor.
+
 or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees</a>.
-<li>Join the <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> Task Force or the <a href="https://software-carpentry.org/join/subcom/african-tf/">African Task Force</a>. 
-<li><a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">tell us about your favourite tool</a>.
+  Community building
+  <li>Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
+or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees</a>.
+  <li>Join the <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> Task Force or the <a href="https://software-carpentry.org/join/subcom/african-tf/">African Task Force</a>.
+<ul>
+  
+#### Share your knowledge
+  <li><a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">tell us about your favourite tool</a>.
+  
+####  Network
+  
+ 
+
+ 
+
 <li>Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. 
 <li>Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
 <li>Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
