@@ -39,5 +39,5 @@ Even if you are not part of an affiliated institution, please use [this form](ht
   If you are already a certified Instructor and would like to let us know that you have moved,
   changed your email address, or are now able to teach different lessons,
   please <a href="https://amy.software-carpentry.org/workshops/update_profile/">use this form</a>
-  to update your information. If you would like to have access to this record so that you can make changes as needed, please email `team@carpentries.org` wih your GitHub ID. 
+  to update your information. If you would like to have access to your own record so that you can make changes as needed, please email `team@carpentries.org` wih your GitHub ID. 
 
