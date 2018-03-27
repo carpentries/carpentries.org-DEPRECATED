@@ -5,7 +5,7 @@ title: Code of Conduct
 excerpt: The Carpentries Code of Conduct is geared towards making participation an enjoyable and fulfilling experience for all
 ---
 
-# Our Community Code of Conduct
+# Our Community's Code of Conduct
 
 The Carpentries is a community-led project.
 We value the involvement of everyone in this community - learners, instructors, hosts, developers, executive council members and staff. 
