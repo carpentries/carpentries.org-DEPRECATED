@@ -20,65 +20,67 @@ The Carpentries by becoming a <a href="../membership/">member organization</a>. 
 
 [CarpentryCon 2018](http://www.carpentrycon.org/), our key community building event this year, will be held in Dublin from 30 May - 1 June, 2018. We are
 still seeking sonsorship to make this a truly global and diverse event that celebrates our global community and helps foster the professional development of the research leaders of the future. Can you help? [Read about what we need.](http://www.carpentrycon.org/#portfolio)
+
   
 ### Pathways for Engagement - Individuals
   
-Individuals have many ways to get involved in our commuity. 
+Individuals have many ways to get involved in our community. 
   
-#### Teach
+#### Teach the Carpentries
   
 - Teach or help at <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops. 
 
-- <a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become a Carpentries instructor. 
+- <a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become a Carpentries instructor. Instructors develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). 
 
 - Certify as a Trainer. Trainers run instructor training to help others certify as Carpentries Instructors. Call for poeple to apply to be Trainers are announced regularly.  Trainers develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md). 
   
-#### Learn
+#### Learn the Carpentries
 
 - Attend <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop.
 
-- Join a Carpentries mentoring group as a mentee.
+- Join a [Carpentries mentoring group](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html) as a mentee. 
 
 #### Maintain Lessons
 
 - All Carpentries lessons are actively maintained. Maintainers develop a highly desirable [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md).
 
-- Serve on a Curriculum Advistory Committee.
+- Serve on a [Curriculum Advistory Committee](http://www.datacarpentry.org/blog/curriculum-advisory/).
 
 
 #### Build Local Communities
 
+- Join the [Carpentry Champions](http://pad.software-carpentry.org/champions) network. This group meets quarterly to share ideas and experiences around building strong local communities. You can join community calls or join the **#champions** channel on our [Slack](https://swc-slack-invite.herokuapp.com/). 
+
+- Read or contribute to the [Carpentries Community Cookbook](https://cookbook.carpentries.org/), where we share recipes for community building. See the [repo view](https://github.com/carpentries/community-cookbook).
+
 #### Mentor Others
 
 - Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee.
-- Host discussion sessions.
-- Join a Carpentries mentoring group as a mentor.
+- Host [discussion sessions](http://pad.software-carpentry.org/instructor-discussion).
+- Join a [Carpentries mentoring group]((https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)) as a mentor.
 
+#### Serve on a SubCommittee or Task Force
+
+- We have a range of committees and task forces that people can join. This is a great way to network and meet other people in our community. See [what is on offer](https://software-carpentry.org/join/subcom_and_tf/).
+- Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
 or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees</a>.
-  Community building
-  <li>Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
-or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees</a>.
-  <li>Join the <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> Task Force or the <a href="https://software-carpentry.org/join/subcom/african-tf/">African Task Force</a>.
-<ul>
+- Join the <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> Task Force or the <a href="https://software-carpentry.org/join/subcom/african-tf/">African Task Force</a>.
+
   
 #### Share your knowledge
-  <li><a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a> or <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">tell us about your favourite tool</a>.
+
+- <a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a>
+- Share information <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">about your favourite tool</a>.
   
 ####  Network
   
- 
-
- 
-
-<li>Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. 
-<li>Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
-<li>Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
-<li>Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>. 
-<li>Join and contribute to some of the email lists below.
-  </ul>
-</p>
+- Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. We have dedicated channels for mentoring, champions and carpentrycon.
+- Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
+- Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
+- Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>. 
+- Join and contribute to some of the email lists below.
 
 <h2 id="newsletter">Newsletter</h2>
 
@@ -97,52 +99,9 @@ or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees
 </div>
 
 
-<h2 id="instructors">Instructors</h2>
-
-<p>
-There are two steps to becoming an instructor:
-</p>
-<ol>
-  <li>
-    <p>
-      <b>Take the <a href="{{site.training_url}}">instructor training course</a></b>:
-      This course runs over two full days and covers the basics of
-      educational psychology, instructional design, and how to apply both
-      to teaching Software Carpentry and Data Carpentry workshops.
-    </p>
-  </li>
-  <li>
-    <p>
-      <b>Complete the Software Carpentry checkout process</b>:
-      You must complete
-      <a href="{{site.training_url}}/checkout/">three short tasks</a>
-      after the course in order to complete certification.
-    </p>
-  </li>
-</ol>
-
-<p align="center">
-  <em>
-    Most of our instructors are trained through organizational agreements
-    with affiliated institutions. If you have been asked to provide
-    information associated with this type of training,
-    please fill in <a href="{{site.amy_url}}/request_training/">this form</a>.
-    Even if you are not part of an affiliated institution, please use the same form to
-    indicate your interest in training.
-  </em>
-</p>
-
-<p>
-  If you are already an instructor and would like to let us know that you have moved,
-  changed your email address,
-  or are now able to teach more lessons,
-  please <a href="{{site.amy_url}}/update_profile/">fill in this form</a>
-  to update your information.
-</p>
-
 <h2 id="calendar">Community Events</h2>
 <p>
-  There are many opportunities to join community lab meetings, sub-committees
+  There are many opportunities to join community meetings, sub-committees
   and de-briefing sessions. Find links to them on this <a href="http://pad.software-carpentry.org/pad-of-pads">etherpad</a>, and subscribe to the calendar below to watch all that is
   going on throughout our community.
 
@@ -157,13 +116,6 @@ an entry to
   etherpad</a> and try to arrange a meetup.
 </p>
 
-<h2 id="discussion">Conversations</h2>
-<p>
-  You can join the conversation by following <a href="{{site.baseurl}}/blog/">our blog</a>,
-  <a href="{{site.slack_signup_url}}">on Slack</a>,
-  or <a href="{{site.twitter_url}}">{{site.twitter_name}}</a> on Twitter,
-  or talk to us on these mailing lists:
-</p>
 
 <table class="table table-striped">
   <tr>
