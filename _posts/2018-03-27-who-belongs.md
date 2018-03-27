@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 authors: ["Belinda Weaver"]
 title: "Who Belongs at CarpentryCon 2018? You Do!"
 category: blog
