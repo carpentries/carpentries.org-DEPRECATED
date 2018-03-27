@@ -9,6 +9,8 @@ redirect_from:
 excerpt: A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry
 ---
 
+## Become a Member Organization
+
 A Member Organization is an organization that has made a commitment to the growth and spread of Software & Data Carpentry. Members receive priority access to instructor training and guidance with capacity building at their organization. With local instructors, Members can readily run low-cost local workshops. Community developed lessons enable our instructors to globally share the effort for developing impactful lessons on technical topics. Memberships give Software and Data Carpentry revenue to ensure the ongoing development and maintenance of the lessons demanded by research communities. We work to give your local instructors support, mentorship and a forum for community lesson development.
 
 ### Membership Tiers
