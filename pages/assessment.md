@@ -9,9 +9,9 @@ permalink: /assessment/
 The Carpentries value a culture of assessment, and we are consistently evaluating 
 our workshops to understand the impact workshops have on our learners, and how we can improve our content delivery.
 
-Dr. Kari L. Jordan, our Director of Assessment and Community Equity, leads our assessment efforts. She has established the [Assessment Network](http://www.datacarpentry.org/assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
+Dr. Kari L. Jordan, our Director of Assessment and Community Equity, leads our assessment efforts. She has established the [Assessment Network](../assessment-network/), a space where those working on assessment within the open source/research computing community can collaborate and share resources.
 
-Dr. Erin Becker, our Associate Director serves as Principal Investigator for our research efforts related to assessing the
+Dr. Erin Becker, our Associate Director, serves as Principal Investigator for our research efforts related to assessing the
 effectiveness of our workshops. This work is carried out under supervison of the Institutional Review Board at University of California, Davis. Our faculty sponsor at UC Davis is Dr. Megan Welsh, Assistant Professor within the UC Davis School of Education.
 
 Please see our [IRB proposal]({{ site.urlimg }}/Data_Carpentry_IRB_for_workshops.pdf)
@@ -67,5 +67,3 @@ The long-term survey assessed confidence, motivation, and other outcomes more th
 - 54% of our respondents have made their analyses more reproducible as a result of completing a Carpentry workshop.
 - 65% of our respondents have gained confidence in working with data as a result of completing the workshop.
 - 74% of our respondents have recommended our workshops to a friend or colleague.
-
-
