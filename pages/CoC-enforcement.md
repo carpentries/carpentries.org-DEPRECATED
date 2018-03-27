@@ -5,6 +5,8 @@ title: Code of Conduct Enforcement Manual
 excerpt: enforcement manual followed by Software and Data Carpentry's Policy subcommittee
 ---
 
+## Code of Conduct Enforcement
+
 This is the enforcement manual followed by Software and Data Carpentry's ("The Carpentries") 
 Policy subcommittee. It's used when we respond to an issue to make sure we're consistent and fair. It should be
 considered an internal document, but we're publishing it publicly in the interests of transparency. Enforcement
