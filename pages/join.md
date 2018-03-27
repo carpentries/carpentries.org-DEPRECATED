@@ -44,7 +44,7 @@ or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop
 #### Maintain Lessons
 
 - All Carpentries lessons are actively maintained. Maintainers develop a highly desirable [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md).
-- Serve on a [Curriculum Advistory Committee](http://www.datacarpentry.org/blog/curriculum-advisory/).
+- Serve on a [Curriculum Advisory Committee](http://www.datacarpentry.org/blog/curriculum-advisory/).
 
 
 #### Build Local Communities
@@ -56,11 +56,11 @@ or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop
 
 - Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee.
 - Host [discussion sessions](http://pad.software-carpentry.org/instructor-discussion).
-- Join a [Carpentries mentoring group]((https://software-carpentry.org/blog/2018/03/next-round-mentoring.html)) as a mentor.
+- Join a [Carpentries mentoring group](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html) as a mentor.
 
 #### Serve on a SubCommittee or Task Force
 
-- We have a range of committees and task forces that people can join. This is a great way to network and meet other people in our community. See [what is on offer](https://software-carpentry.org/join/subcom_and_tf/).
+- We have a range of committees and task forces that people can join. This is a great way to network and meet other people in our community. See [what groups you can join](https://software-carpentry.org/join/subcom_and_tf/).
 - Serve on the <a href="https://software-carpentry.org/join/subcom/mentoring/">Mentoring</a> sub-committee 
 or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees</a>.
 - Join the <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> Task Force or the <a href="https://software-carpentry.org/join/subcom/african-tf/">African Task Force</a>.
@@ -68,7 +68,7 @@ or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees
   
 #### Share Your Knowledge
 
-- <a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a>
+- <a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a> about a workshop, event, or insight.
 - Share information <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">about your favourite tool</a>.
   
 ####  Network
