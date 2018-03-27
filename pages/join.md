@@ -14,14 +14,16 @@ There are lots of ways to get involved in our community and many different ways 
 #### Become a Member
 
 Institutions such as universities and research institutes can best support 
-The Carpentries by becoming a <a href="../membership/">member organization</a>. Member Organization make a commitment to the growth and spread of The Carpentries, and receive priority access to [instructor training](../instructor-training) as well as guidance with capacity building at their organization. 
+The Carpentries by becoming a <a href="../membership/">member organization</a>. Member organizations make a commitment to the growth and spread of The Carpentries, and receive priority access to [instructor training](../instructor-training) as well as guidance with local capacity building within their organization. 
 
 #### Sponsor CarpentryCon
 
 [CarpentryCon 2018](http://www.carpentrycon.org/), our key community building event this year, will be held in Dublin from 30 May - 1 June, 2018. We are
-still seeking sonsorship to make this a truly global and diverse event that celebrates our global community and helps foster the professional development of the research leaders of the future. Can you help? [Read about what we need.](http://www.carpentrycon.org/#portfolio)
+still seeking sonsorship to make this a truly global and diverse event that both celebrates our global community and helps foster the professional development of the research leaders of the future. Can you help? [Read about what benefits sponsorship will bring.](http://www.carpentrycon.org/#portfolio)
 
   
+<hr>
+
 ### Pathways for Engagement - Individuals
   
 Individuals have many ways to get involved in our community. 
@@ -30,29 +32,24 @@ Individuals have many ways to get involved in our community.
   
 - Teach or help at <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshops. 
-
 - <a href="https://amy.software-carpentry.org/workshops/request_training/">Apply</a> to become a Carpentries instructor. Instructors develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). 
-
 - Certify as a Trainer. Trainers run instructor training to help others certify as Carpentries Instructors. Call for poeple to apply to be Trainers are announced regularly.  Trainers develop a great [skill set](https://github.com/carpentries/commons/blob/master/text-for-trainers.md). 
   
 #### Learn the Carpentries
 
 - Attend <a href="https://software-carpentry.org/workshops/">Software Carpentry</a> 
 or <a href="http://www.datacarpentry.org/workshops/">Data Carpentry</a> workshop.
-
 - Join a [Carpentries mentoring group](https://software-carpentry.org/blog/2018/03/next-round-mentoring.html) as a mentee. 
 
 #### Maintain Lessons
 
 - All Carpentries lessons are actively maintained. Maintainers develop a highly desirable [skill set](https://github.com/carpentries/commons/blob/master/text-for-maintainers.md).
-
 - Serve on a [Curriculum Advistory Committee](http://www.datacarpentry.org/blog/curriculum-advisory/).
 
 
 #### Build Local Communities
 
 - Join the [Carpentry Champions](http://pad.software-carpentry.org/champions) network. This group meets quarterly to share ideas and experiences around building strong local communities. You can join community calls or join the **#champions** channel on our [Slack](https://swc-slack-invite.herokuapp.com/). 
-
 - Read or contribute to the [Carpentries Community Cookbook](https://cookbook.carpentries.org/), where we share recipes for community building. See the [repo view](https://github.com/carpentries/community-cookbook).
 
 #### Mentor Others
@@ -69,7 +66,7 @@ or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees
 - Join the <a href="https://github.com/carpentries/carpentrycon">CarpentryCon</a> Task Force or the <a href="https://software-carpentry.org/join/subcom/african-tf/">African Task Force</a>.
 
   
-#### Share your knowledge
+#### Share Your Knowledge
 
 - <a href="https://carpentries.typeform.com/to/BK55ld">Blog for us</a>
 - Share information <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform">about your favourite tool</a>.
@@ -79,24 +76,13 @@ or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees
 - Chat to community members in our <a href="https://swc-slack-invite.herokuapp.com/">Slack channel</a>. We have dedicated channels for mentoring, champions and carpentrycon.
 - Follow us on <a href="https://www.facebook.com/carpentries/">Facebook</a>.
 - Attend <a href="http://www.carpentrycon.org/">CarpentryCon 2018</a>, our key community building and networking event.
-- Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>. 
+- Sign up for <a href="https://carpentries.us14.list-manage.com/subscribe?u=46d7513c798c6bd41e5f58f4a&id=8b4fabb707">CarpentryCon updates</a>.
+- Add your event to the Meetups page and find other Carpentries Instructors there. 
+- Going to an event? Hoping to connect with other people from the Carpentries? List the event and your your details on our [meetups page](http://pad.software-carpentry.org/swc-events-meetup). 
 - Join and contribute to some of the email lists below.
+- Read our twice-monthly newsletter, *Carpentry Clippings*. [Sign up to get it by email](http://eepurl.com/cfODMH) or <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see past issues</a>.
 
 <h2 id="newsletter">Newsletter</h2>
-
-<p>Our newsletter, <em>Carpentry Clippings</em>, appears every second Tuesday. We welcome news from the community, including job postings.
-</p>
-
-<div align="center">
-<a href="http://eepurl.com/cfODMH">
-  <button class="btn">
-    Sign up for our newsletter
-  </button>
-</a>
-  <br>
- <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">See past issues</a>
-
-</div>
 
 
 <h2 id="calendar">Community Events</h2>
@@ -107,14 +93,6 @@ or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees
 
 </p>
 <iframe src="https://calendar.google.com/calendar/embed?title=%20Software%20Carpentry%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-<h2 id="discussion">Meetup at Conferences</h2>
-<p>
-Going to an event where other Software Carpentry instructors might be? Add
-an entry to
-<a href="{{site.pad_url}}/swc-events-meetup">the meetup
-  etherpad</a> and try to arrange a meetup.
-</p>
 
 
 <table class="table table-striped">
