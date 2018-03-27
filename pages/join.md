@@ -82,8 +82,7 @@ or <a href="https://software-carpentry.org/join/subcom_and_tf/">other committees
 - Join and contribute to some of the email lists below.
 - Read our twice-monthly newsletter, *Carpentry Clippings*. [Sign up to get it by email](http://eepurl.com/cfODMH) or <a href="http://us14.campaign-archive2.com/home/?u=46d7513c798c6bd41e5f58f4a&id=50c3e6d6fe">see past issues</a>.
 
-<h2 id="newsletter">Newsletter</h2>
-
+<hr>
 
 <h2 id="calendar">Community Events</h2>
 <p>
