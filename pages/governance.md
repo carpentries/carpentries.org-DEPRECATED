@@ -4,7 +4,7 @@ title: "Governance"
 permalink: /governance/
 ---
 
-## Governance
+## Carpentries' Governance
 
 Governance of the Carpentries is managed by the newly formed Executive Council.
 
@@ -21,7 +21,7 @@ of Software and Data Carpentry.
 
 - Amy Hodge (1 year term)
 - Elizabeth Wickes (1 year term)
-- Lex Nederbragt (2 year term)
+- Lex Nederbragt (2 year term) (Secretary)
 - Raniere Silva (2 year term)
 
 ### Appointed Members
@@ -30,4 +30,4 @@ of Software and Data Carpentry.
 - Karen Cranston  (Chair)
 - Kate Hertweck 
 - Mateusz Kuzak 
-- Sue McClatchy (Treasurer)
+- Sue McClatchy (Treasurer
